@@ -1,0 +1,21 @@
+.Item {
+  display: flex;
+  justify-content: space-between;
+  margin: 9px;
+  width: 94%;
+  height: 40px;
+  border: 3px solid forestgreen;
+  position: relative;
+  top: 50px;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  background-color: aqua;
+}
+p {
+  position: relative;
+  font-family: "fantasy";
+  bottom: 22px;
+}
+.Item button {
+  background-color: lightskyblue;
+}
